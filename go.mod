@@ -1,8 +1,8 @@
 module github.com/tychy/toukibo-parser-worker
 
-go 1.23
+go 1.25
 
-toolchain go1.23.4
+toolchain go1.25.0
 
 require github.com/syumai/workers v0.31.0
 
